@@ -2,6 +2,13 @@
 
 Welcome to my repository of Shadertoy GLSL shaders! This repository contains various GLSL shaders that I have created on Shadertoy.
 
+### 
+
+
+### What is Shadertoy?
+
+Shadertoy is a web-based community and tool for creating, sharing, and exploring real-time graphics and visual effects through GLSL shaders, fostering creativity and collaboration among developers and artists [Learn More](https://www.shadertoy.com).
+
 ## Shaders
 
 Here's a list of the shaders available in this repository:
