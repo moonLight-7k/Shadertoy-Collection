@@ -13,7 +13,7 @@ Shadertoy is a web-based community and tool for creating, sharing, and exploring
 
 Here's a list of the shaders available in this repository:
 
-- [Gradient Clusion](gradeint_clusion.glsl) - A gradient of circle creating illusion.
+- [Gradient Clusion](gradeint_clusion.glsl) - A gradient of circle creating illusion. [🔗](https://www.shadertoy.com/view/dt3XzM)
 
 - more coming soon....
 
