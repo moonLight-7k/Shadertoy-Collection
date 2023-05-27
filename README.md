@@ -25,3 +25,7 @@ Contributions and improvements to these shaders are welcome! If you have any sug
 ## License
 
 The code in this repository is licensed under the [MIT License](LICENSE).
+
+
+## Contact
+Feel free to contact me if you have any questions or feedback about the website. You can reach me at [Click](https://bento.me/suhel).
