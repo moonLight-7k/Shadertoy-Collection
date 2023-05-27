@@ -7,7 +7,7 @@ Welcome to my repository of Shadertoy GLSL shaders! This repository contains var
 
 ### What is Shadertoy?
 
-Shadertoy is a web-based community and tool for creating, sharing, and exploring real-time graphics and visual effects through GLSL shaders, fostering creativity and collaboration among developers and artists [Learn More](https://www.shadertoy.com).
+Shadertoy is a web-based community and tool for creating, sharing, and exploring real-time graphics and visual effects through [GLSL](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders) shaders, fostering creativity and collaboration among developers and artists [Learn More](https://www.shadertoy.com).
 
 ## Shaders
 
