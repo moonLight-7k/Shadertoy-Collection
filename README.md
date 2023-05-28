@@ -13,10 +13,17 @@ Shadertoy is a web-based community and tool for creating, sharing, and exploring
 
 Here's a list of the shaders available in this repository:
 
-- [Gradient Clusion](gradeint_clusion.glsl) - A gradient of circle creating illusion. 
-<a href="https://www.shadertoy.com/view/dt3XzM" target="_blank">🔗</a>
+- [Gradient Clusion](gradeint_clusion.glsl)  
+- [Blinky Illusion](Blinky_Illusion.glsl) 
+- [Blinky IllusionII](Blinky_IllusionII.glsl)
+- [Glitchyy.glsl](Glitchyy.glsl)
+- [Multi MirrorIIglsl](Multi_MirrorII.glsl)
+- [Muti mirrorII](Muti_mirrorII.glsl)
+- [Space Runner](Space_Runner.glsl)
+- [Thin circle illu](Thin_circle_illu.glsl)
+- [gradient clusion](gradient_clusion.glsl)
+- [high illusion](high_illusion.glsl)
 
-- more coming soon....
 
 ## Usage
 
